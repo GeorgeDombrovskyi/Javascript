@@ -17,3 +17,12 @@
 // getDate() – Provides day of the month values 1-31.
 
 --------------------------
+//  Current Time
+
+        var today = new Date();
+        var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+
+// getHours() – Provides current hour between 0-23.
+// getMinutes() – Provides current minutes between 0-59.
+// getSeconds() – Provides current seconds between 0-59.
+--------------------------

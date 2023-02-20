@@ -35,3 +35,12 @@
 - revers sort 
    
         reverse() 
+        
+for Numbers
+- Ascending
+
+        points.sort(function(a, b){return a - b});
+        
+- Descending
+
+        points.sort(function(a, b){return b - a});

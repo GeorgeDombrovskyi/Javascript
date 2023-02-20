@@ -26,3 +26,7 @@
 // getMinutes() – Provides current minutes between 0-59.
 // getSeconds() – Provides current seconds between 0-59.
 --------------------------
+// SORTING
+// for Array
+        sort() - alphabetically
+        reverse() - revers sort (exactly

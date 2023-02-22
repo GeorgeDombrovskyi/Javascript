@@ -49,6 +49,6 @@ for Numbers
 ### For loop
 
        for (let i = 0; i < 5; i++) {
-         //some action...
+         //some action.. .
        }
 

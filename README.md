@@ -46,7 +46,7 @@ for Numbers
         points.sort(function(a, b){return b - a});
         
 --------------------------
-### For loop
+### For Some loop
 
        for (let i = 0; i < 5; i++) {
          //some action.. .
